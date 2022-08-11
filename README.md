@@ -6,9 +6,9 @@ This repository contains branding assets for all of our products.
 
   - [Logos](./logo/original) (and [favicons](./logo/favicon)) ranging from 64x64 to 512x512.
 
-    ![License: MIT](./logo/original/128x128.png)
-    ![License: MIT](./logo/original/64x64.png)
-    ![License: MIT](./logo/favicon/favicon-32x32.png)      
+    ![License: MIT](./logo/original/256x256.png)
+    ![License: MIT](./logo/outer/128x128.png)
+    ![License: MIT](./logo/text/64x64.png)      
 
 </details>
  
