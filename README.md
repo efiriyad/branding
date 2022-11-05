@@ -8,7 +8,7 @@ This repository contains branding assets for all of our products.
 
     ![License: MIT](./logo/original/256x256.png)
     ![License: MIT](./logo/outer/128x128.png)
-    ![License: MIT](./logo/text/64x64.png)      
+    ![License: MIT](./logo/inner/64x64.png)      
 
 </details>
  
